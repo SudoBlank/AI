@@ -8,3 +8,5 @@ You will have to find out how to use it as I don't know myself at this current t
 If any legal clames are filed aganst me I will instently deleat this repo.
 I am not responcibal of any misconduct of a websit's TOS or coppyright.
 This was made in a hurry.
+
+This is a node.js application but best if used localy to execute py files.
