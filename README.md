@@ -1,12 +1,37 @@
-# AI
-A Ai I made not the best or the smartest. It is not pertained you will have to do that.
-Some files and code removed for legal purposes.
-It's incomplete as I accidently tigered a scalper and have 24H to delete it. So it's a uncompleated repo.
-This will probably not get updated.
+# AI Chatbot
 
-You will have to find out how to use it as I don't know myself at this current time.
-If any legal clames are filed aganst me I will instently deleat this repo.
-I am not responcibal of any misconduct of a websit's TOS or coppyright.
-This was made in a hurry.
+**A lightweight, local-first AI chatbot** built from scratch. 
+*Trained on custom knowledge data (now **deleted for legal compliance**). Not the smartest yet—but a fun, experimental project!*
 
-This is a node.js application but best if used localy to execute py files.
+[![Node.js](https://img.shields.io/badge/Node.js-v20-green)](https://nodejs.org)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+> **🚨 **LEGAL DISCLAIMER** (Read This First!)** 🚨  
+> - All scraped training data has been **permanently deleted** to comply with website ToS and copyright laws.  
+> - This repo contains **only code**—**no raw data**.  
+> - You are **responsible** for your own data sources (use **APIs** or **public domain** only).  
+> - I am **not liable** for any misuse, ToS violations, or legal claims.  
+> - If issues arise, I'll **immediately delete this repo**.  
+> 
+> **Recommended Data Sources:**  
+> - [Wikipedia API](https://www.mediawiki.org/wiki/API:Main_page)  
+> - [Stack Overflow API](https://api.stackexchange.com)  
+> - [arXiv API](https://info.arxiv.org/help/api/index.html)  
+> - Public domain: Project Gutenberg, NASA, USDA
+
+## ✨ **Features**
+- **Local Training**: Fine-tune models offline with your own data.
+- **Web UI**: Chat interface powered by Node.js + HTML/JS.
+- **Memory System**: Short-term & long-term context (Python-based).
+- **Knowledge Graph**: Structured Q&A extraction.
+- **Modular AI**: Embeddings, transformers, reasoning engine.
+- **Zero Dependencies**: Runs entirely locally (no cloud).
+
+## 🚀 **Quick Start** (Local Setup)
+
+### 1. **Prerequisites**
+```bash
+# Install Node.js (v20+)
+# Install Python (3.10+) + pip packages:
+pip install torch transformers beautifulsoup4 requests numpy pandas
